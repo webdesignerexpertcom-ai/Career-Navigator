@@ -1,3 +1,0 @@
-stremlit
-pypdf
-reportlab
